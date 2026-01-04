@@ -14,3 +14,4 @@ synthetic_outputs/
 
 # Models
 *.pt
+kaggle.json
