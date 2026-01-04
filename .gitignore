@@ -1,0 +1,16 @@
+# Python and virtual env
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and outputs
+data/
+submission_masks/
+submission.zip
+synthetic_outputs/
+
+# Models
+*.pt
